@@ -21,7 +21,7 @@
 title: A home for poorly researched ideas
 email: mattia.ruefenacht@trea.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Interested in the hard problem and kind of fascinated by humans, plants & other technologies.
+  Interested in the hard problem and kind of fascinated by humans, plants & technologies.
 baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://rufenmatt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rufenmatt
