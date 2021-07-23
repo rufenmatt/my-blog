@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You will not find any information about myself here. If you want to know something, just write me an [email](mailto:mattia.ruefenacht@trea.ch).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+By the way, if you are already there now.... This blog was built with Jekyll. Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. If you wanna have one yourself, you can find out more info at [jekyllrb.com](https://jekyllrb.com/).
