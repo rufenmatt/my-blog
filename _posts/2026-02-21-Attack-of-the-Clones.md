@@ -1,6 +1,11 @@
 ---
 layout: post
-title:  "Attack of the ClonesThere’s this old joke from the early IBM days:
+title:  "Attack of the Clones"
+date:   2026-02-21 17:11:11 +0200
+categories: jekyll update
+---
+
+There’s this old joke from the early IBM days:
 
 > “I think there is a world market for maybe five computers.”
 
